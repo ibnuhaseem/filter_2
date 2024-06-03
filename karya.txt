@@ -79,5 +79,11 @@
 ||crazygames.co.id^$important
 ||now.gg^$important
 ||gdriveplayer.to^$important
+||wto.to^$important
+||xbato.com^$important
+||id.kakaowebtoon.com^$important
+||kakaowebtoon.com^$important
+||webtoon.kakao.com^$important
+
 
 
