@@ -78,5 +78,6 @@
 ||krunker.io^$important
 ||crazygames.co.id^$important
 ||now.gg^$important
+||gdriveplayer.to^$important
 
 
