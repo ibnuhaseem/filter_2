@@ -35,6 +35,26 @@
 ||komikindo.co^$important
 ||pojokmanga.org^$important
 ||klikmanga.id^$important
+||wto.to^$important
+||xbato.com^$important
+||xbato.org^$important
+||id.kakaowebtoon.com^$important
+||kakaowebtoon.com^$important
+||webtoon.kakao.com^$important
+||battwo.com^$important
+||dto.to^$important
+||mangatoto.net^$important
+||mto.to^$important
+||zbato.net^$important
+||zbato.org^$important
+||zbato.com^$important
+||readtoto.org^$important
+||readtoto.com^$important
+||batocomic.net^$important
+||batocomic.com^$important
+||bato.to^$important
+
+
 !Nonton
 ||oploverz.co.id^$important
 ||otakupoi.org^$important
@@ -52,6 +72,7 @@
 ||chromewebstore.google.com^$important
 ||addons.mozilla.org^$important
 ||addons.opera.com^$important
+
 !Gaming
 ||poki.com^$important
 ||plays.org^$important
@@ -79,11 +100,12 @@
 ||crazygames.co.id^$important
 ||now.gg^$important
 ||gdriveplayer.to^$important
-||wto.to^$important
-||xbato.com^$important
-||id.kakaowebtoon.com^$important
-||kakaowebtoon.com^$important
-||webtoon.kakao.com^$important
+
+Berita
+||msn.com^$important
+||microsoftedge.microsoft.com^$important
+
+
 
 
 
