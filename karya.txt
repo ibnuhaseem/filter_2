@@ -53,8 +53,8 @@
 ||batocomic.net^$important
 ||batocomic.com^$important
 ||bato.to^$important
-|| xbato.net^$important
-|| batotoo.com^$important
+||xbato.net^$important
+||batotoo.com^$important
 
 
 !Nonton
