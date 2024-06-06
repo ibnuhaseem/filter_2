@@ -53,6 +53,8 @@
 ||batocomic.net^$important
 ||batocomic.com^$important
 ||bato.to^$important
+|| xbato.net^$important
+|| batotoo.com^$important
 
 
 !Nonton
@@ -68,10 +70,19 @@
 ||oploverz.host^$important
 ||riie.stream^$important
 ||neonime.ink^$important
+|| tukangnonton.online^$important
+|| filmbro21.com^$important
+|| sub21.kawanga.me^$important
+|| trueid.id^$important
+|| filmdrays.com^$important
+|| 51.89.105.90^$important
+|| tv.lk21xxi.cam^$important
+
 !Extension Store
 ||chromewebstore.google.com^$important
 ||addons.mozilla.org^$important
 ||addons.opera.com^$important
+||microsoftedge.microsoft.com^$important
 
 !Gaming
 ||poki.com^$important
@@ -103,8 +114,16 @@
 
 Berita
 ||msn.com^$important
-||microsoftedge.microsoft.com^$important
 
+Search Engine
+|| duckduckgo.com^$important
+|| yandex.com^$important
+|| yahoo.com^$important
+
+Proxy
+|| proxysite.com^$important
+|| croxyproxy.com^$important
+|| proxyium.com^$important
 
 
 
